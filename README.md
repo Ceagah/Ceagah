@@ -51,5 +51,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ceagah&show_icons=true&locale=en&layout=compact" alt="StatusCeagah" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceagah&show_icons=true&locale=en&layout=compact" alt="languages" />
+	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ceagah&show_icons=true&line_height=27" alt="status" />
 
