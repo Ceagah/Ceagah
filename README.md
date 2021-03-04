@@ -1,6 +1,7 @@
 <h1>Hello People. My name is Carlos Henrique</h1>
 <h2>But you can call me  Ceagah, is how to pronounce my initials</h2>
 
+
 <p>Welcome to my Dev Corner!</br> I'm Ceagah, Front-end Developer <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" width="13"/></p>
 <h3>These are my work tools, for now [2021]</h3>
 <p>
@@ -50,3 +51,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ceagah&show_icons=true&locale=en&layout=compact" alt="StatusCeagah" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceagah&show_icons=true&locale=en&layout=compact" alt="languages" />
+
