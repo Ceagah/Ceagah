@@ -3,6 +3,12 @@
 
 
 <p>Welcome to my Dev Corner!</br> I'm Ceagah, Front-end Developer <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" width="13"/></p>
+<h2> Check my  
+<a href="https://ceagah-portifolio.herokuapp.com" target="_blank">  
+     portfolio
+  </a>
+	! 
+</h2>
 <h3>These are my work tools, for now [2021]</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,9 +44,7 @@
   <a href="https://github.com/ceagah" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://ceagah-portifolio.herokuapp.com" target="_blank">  
-     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white />
-  </a>
+  
  
   <a href="https://www.linkedin.com/in/carlosceagah/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
