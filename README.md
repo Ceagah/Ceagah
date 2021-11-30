@@ -1,7 +1,12 @@
 <h1>Hello People. My name is Carlos Henrique</h1>
 <h2>But you can call me  Ceagah, is how to pronounce my initials</h2>
 
-
+<div align="center">
+  <a href="https://github.com/Ceagah">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ceagah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceagah&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+	
 <p>Welcome to my Dev Corner!</br> I'm Ceagah, Front-end Developer</p>
 <h2> Check my  
 <a href="https://ceagah-portifolio.herokuapp.com" target="_blank">  
