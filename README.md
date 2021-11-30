@@ -8,7 +8,7 @@
   </a>
 </div>
 	
-<p>Welcome to my Dev Corner!</br> I'm Ceagah, Front-end Developer</p>
+<p>Welcome to my Dev Corner! I'm Ceagah, Front-end Developer</p>
 <h2> Check my  
 <a href="https://ceagah-portifolio.herokuapp.com" target="_blank">  
      portfolio
