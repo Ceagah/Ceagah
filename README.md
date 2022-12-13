@@ -1,7 +1,7 @@
 <h1>Hello People. Welcome to my Github</h1>
 <span>Here you'll find some of my personal projects, it's not fully updated, but i'll post the most interesting projects here</span>
 <span> Downwards, you'll find some of my work tools, or languages that i'm learning about, or languages that i'm confident to code with </span>
-
+<br />
 
 <div align="center">
   <a href="https://github.com/Ceagah">
@@ -9,14 +9,9 @@
 	  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceagah&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-	
-<p>Welcome to my Dev Corner! I'm Ceagah, Front-end Developer</p>
-<h2> Check my  
-<a href="https://ceagah-portifolio.herokuapp.com" target="_blank">  
-     portfolio
-  </a>
-	! 
-</h2>
+<br />
+<p>Welcome to my Dev Corner! I'm Ceagah, Front-end Developer since 2020 </p>
+<br />
 <h3>These are my work tools, for now [2022]</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
