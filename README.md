@@ -1,7 +1,8 @@
 <h1>Hello People. Welcome to my Github</h1>
 <span>Here you'll find some of my personal projects, it's not fully updated, but i'll post the most interesting projects here</span>
 <span> Downwards, you'll find some of my work tools, or languages that i'm learning about, or languages that i'm confident to code with </span>
-<br />
+
+
 
 <div align="center">
   <a href="https://github.com/Ceagah">
