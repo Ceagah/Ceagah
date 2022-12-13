@@ -10,8 +10,9 @@
   </a>
 </div>
 <br />
+
 <p>Welcome to my Dev Corner! I'm Ceagah, Front-end Developer since 2020 </p>
-<br />
+
 <h3>These are my work tools, for now [2022]</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
