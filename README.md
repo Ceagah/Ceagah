@@ -49,7 +49,7 @@
 
 <h3>How can you find me? Call me on any of the networks below  </h3>
 <p>
-  You are here !
+  You are here ! <br/>
   <a href="https://github.com/ceagah" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
