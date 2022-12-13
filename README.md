@@ -47,21 +47,13 @@
 
 </p>
 
-<h3> My Projects </h3>
-<ul>
-  <li><a href="https://github.com/Ceagah/cad-promo" target="_blank">⭐ Cad-Promo </a> - Proposed work in the Systems     Analysis II class.
-    Collect the requirements and create a prototype of a promotion registration system. [HTML and CSS only]</li>
-    <li><a href="https://github.com/Ceagah/Portfolio" target="_blank">PortFolio</a> - This is my portfolio, made in react</li>
-    
-</ul>
-
-<h3>Want to talk better? Call me on any of the networks below  </h3>
+<h3>How can you find me? Call me on any of the networks below  </h3>
 <p>
+  You are here !
   <a href="https://github.com/ceagah" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  
- 
+   
   <a href="https://www.linkedin.com/in/carlosceagah/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
