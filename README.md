@@ -1,8 +1,10 @@
-<h1>Hello People. Welcome to my Github</h1>
-<span>Here you'll find some of my personal projects, it's not fully updated, but i'll post the most interesting projects here</span>
-<span> Downwards, you'll find some of my work tools, or languages that i'm learning about, or languages that i'm confident to code with </span>
+<h3>Hello People. Welcome to my Github</h4>
+<h4>My name is Carlos Henrique</h4>
+<p><i>I'm a software engineer, focused in Front end </i></p>
 
-
+<p>🔭 I’m currently working on Typescript and Javascript librarys</p>
+<p>👯 Collaborate at <a target="_blank" href="https://opensourcecourses.com.br/">Opensource Courses</a></p>
+<p>Here you'll find some projects, things that i've coded to understand more about styling, or some specific library </p>
 
 <div align="center">
   <a href="https://github.com/Ceagah">
@@ -12,7 +14,6 @@
 </div>
 <br />
 
-<p>Welcome to my Dev Corner! I'm Ceagah, Front-end Developer since 2020 </p>
 
 <h3>These are my work tools, for now [2023]</h3>
 <p>
@@ -36,7 +37,7 @@
 
 </p>
 
-<h3>How can you find me? Call me on any of the networks below  </h3>
+<h3>Get in touch !</h3>
 <p>
   You are here ! <br/>
   <a href="https://github.com/ceagah" target="_blank">
@@ -54,6 +55,7 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ceagah&show_icons=true&locale=en&layout=compact" alt="StatusCeagah" /></p>
+<div>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ceagah&show_icons=true&locale=en&layout=compact" alt="StatusCeagah" />
 	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ceagah&show_icons=true&line_height=27" alt="status" />
-
+</div>
