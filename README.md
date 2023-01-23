@@ -54,8 +54,5 @@
   <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
 </p>
-
-<div>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ceagah&show_icons=true&locale=en&layout=compact" alt="StatusCeagah" />
-	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ceagah&show_icons=true&line_height=27" alt="status" />
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ceagah&show_icons=true&locale=en&layout=compact" alt="StatusCeagah" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ceagah&show_icons=true&line_height=27" alt="status" />
